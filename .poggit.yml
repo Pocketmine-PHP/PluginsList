@@ -1,0 +1,68 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Pocketmine-PHP/PluginsList
+branches:
+
+- master
+
+projects:
+
+  ClearInventory:
+
+    path: ClearInventory/
+
+  Feed:
+
+    path: Feed/
+
+  HungerDisabler:
+
+    path: HungerDisabler/
+
+  WhitelistReason:
+
+    path: WhitelistReason/
+
+  Heal:
+
+    path: Heal/
+
+  XYZ:
+
+    path: XYZ/
+
+  ChatEnhancer:
+
+    path: ChatEnhancer/
+
+  KillMoney:
+
+    path: KillMoney/
+
+  NoVoid:
+
+    path: NoVoid/
+
+  Wild:
+
+    path: Wild/
+
+  ItemDurabiliter:
+
+    path: ItemDurabiliter/
+
+  SpawnTP:
+
+    path: SpawnTP/
+
+  DoubleJump:
+
+    path: DoubleJump/
+
+  WorldTP:
+
+    path: WorldTP/
+
+  Freeze:
+
+    path: Freeze/
+
+...
