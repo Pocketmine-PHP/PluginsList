@@ -1,0 +1,12 @@
+name: Bildir
+version: 1
+api:
+- 3.0.1
+- 3.0.0-ALPHA12
+main: Eren5960\Bildir\Main
+author: Eren5960
+
+commands:
+  bildir:
+    aliases: ["report"]
+    description: Sunucuda Oyuncu Bildirmenize Yarar.
