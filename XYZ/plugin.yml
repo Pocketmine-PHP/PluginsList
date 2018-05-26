@@ -1,0 +1,13 @@
+name: XYZ
+author: BlazeTheDev
+version: 1.0.1
+description: An advanced position showing plugin for PocketMine
+main: iiFlamiinBlaze\XYZ\XYZ
+api: 3.0.0-ALPHA12
+commands:
+ xyz:
+  permission: xyz.command
+  description: "A command that allows you to show your coords"
+permissions:
+ xyz.command:
+  default: true

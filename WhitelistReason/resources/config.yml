@@ -1,0 +1,14 @@
+#  ____  _            _______ _          _____
+# |  _ \| |          |__   __| |        |  __ \
+# | |_) | | __ _ _______| |  | |__   ___| |  | | _____   __
+# |  _ <| |/ _` |_  / _ \ |  | '_ \ / _ \ |  | |/ _ \ \ / /
+# | |_) | | (_| |/ /  __/ |  | | | |  __/ |__| |  __/\ V /
+# |____/|_|\__,_/___\___|_|  |_| |_|\___|_____/ \___| \_/
+
+# Whitelist Reason Configuration File:
+#  Use the § symbol for color coding
+#   Default Config:
+#      whitelist-message: "Whitelist Reason"
+
+# The below config is the message that will be sent when the player is kicked
+whitelist-message: "§aWhitelist Reason"

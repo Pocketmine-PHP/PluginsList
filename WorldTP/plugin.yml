@@ -1,0 +1,13 @@
+name: WorldTP
+author: BlazeTheDev
+version: 1.0.0
+description: A world teleporting plugin for PocketMine
+main: iiFlamiinBlaze\WorldTP\WorldTP
+api: 3.0.0-ALPHA12
+commands:
+ worldtp:
+  description: Teleports you to a specific world
+  permission: worldtp.command
+permissions:
+ worldtp.command:
+  default: op

@@ -1,0 +1,6 @@
+name: WhitelistReason
+author: BlazeTheDev
+version: 1.0.0
+description: An advanced whitelist reason plugin for PocketMine
+main: iiFlamiinBlaze\WhitelistReason\WhitelistReason
+api: 3.0.0-ALPHA12

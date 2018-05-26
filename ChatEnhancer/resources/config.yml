@@ -1,0 +1,25 @@
+#  ____  _            _______ _          _____
+# |  _ \| |          |__   __| |        |  __ \
+# | |_) | | __ _ _______| |  | |__   ___| |  | | _____   __
+# |  _ <| |/ _` |_  / _ \ |  | '_ \ / _ \ |  | |/ _ \ \ / /
+# | |_) | | (_| |/ /  __/ |  | | | |  __/ |__| |  __/\ V /
+# |____/|_|\__,_/___\___|_|  |_| |_|\___|_____/ \___| \_/
+
+# ChatEnhancer Configuration File:
+#   Default Config:
+#     chat-listener: "on"
+#     op-bypass: "off"
+#     blocked-words: ["fuck", "bitch", "ass", "shit"]
+#     blocked-links: [".tk", ".com", ".net"]
+
+# The below config enables or disables the chat listener (OPTIONS: on or off)
+chat-listener: "on"
+
+# The below config enables or disables ops being able to bypass the enhancements (OPTIONS: on or off)
+op-bypass: "off"
+
+# The below config are the blocked works on your server
+blocked-words: ["fuck", "bitch", "ass", "shit"]
+
+# The below configs are the blocked links on your server
+blocked-links: [".tk", ".com", ".net"]

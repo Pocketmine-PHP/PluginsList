@@ -1,0 +1,17 @@
+#  ____  _            _______ _          _____
+# |  _ \| |          |__   __| |        |  __ \
+# | |_) | | __ _ _______| |  | |__   ___| |  | | _____   __
+# |  _ <| |/ _` |_  / _ \ |  | '_ \ / _ \ |  | |/ _ \ \ / /
+# | |_) | | (_| |/ /  __/ |  | | | |  __/ |__| |  __/\ V /
+# |____/|_|\__,_/___\___|_|  |_| |_|\___|_____/ \___| \_/
+
+# KillMoney Configuration File:
+#   Default Config:
+#      message: "You have earned {money} to {player}"
+#      money: 100
+
+# The below config is the message that will be sent to the killer
+message: "You have earned {money} to {player}"
+
+# The below config is the amount of money that will be given to the killer
+money: 100

@@ -1,0 +1,13 @@
+name: ItemDurabiliter
+author: BlazeTheDev
+version: 1.0.0
+description: An item durability changing plugin for PocketMine
+main: iiFlamiinBlaze\ItemDurabiliter\ItemDurabiliter
+api: 3.0.0-ALPHA12
+commands:
+ itemdurabiliter:
+  description: Changes the durability on an item
+  permission: itemdurabiliter.command
+permissions:
+ itemdurabiliter.command:
+  default: op

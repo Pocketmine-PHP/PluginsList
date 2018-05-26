@@ -1,0 +1,14 @@
+name: BlazinFeed
+author: BlazeTheDev
+version: 1.2.1
+description: Feeding System for PocketMine-MP
+main: iiFlamiinBlaze\BlazinFeed\BlazinFeed
+api: 3.0.0-ALPHA12
+commands:
+ feed:
+  description: Commands that feeds the player
+  permission: feed.command
+  usage: "/feed <player>"
+permission:
+ feed.command:
+  default: op

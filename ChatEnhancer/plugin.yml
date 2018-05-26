@@ -1,0 +1,6 @@
+name: ChatEnhancer
+author: BlazeTheDev
+version: 1.0.0
+description: An advanced chat enhancing plugin
+main: iiFlamiinBlaze\ChatEnhancer\ChatEnhancer
+api: 3.0.0-ALPHA12

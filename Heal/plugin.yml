@@ -1,0 +1,13 @@
+name: Heal
+author: BlazeTheDev
+version: 1.0.0
+description: A healing system for PocketMine
+main: iiFlamiinBlaze\Heal\Heal
+api: 3.0.0-ALPHA12
+commands:
+ heal:
+  permission: heal.command
+  description: "Use this command to heal yourself or others"
+permissions:
+ heal.command:
+  default: op

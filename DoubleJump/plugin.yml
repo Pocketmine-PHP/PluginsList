@@ -1,0 +1,6 @@
+name: DoubleJump
+author: BlazeTheDev
+version: 1.0.1
+description: A plugin that allows you to launch when you jump twice for PocketMine
+main: iiFlamiinBlaze\DoubleJump\DoubleJump
+api: 3.0.0-ALPHA12

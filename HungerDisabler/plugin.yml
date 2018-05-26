@@ -1,0 +1,6 @@
+name: HungerDisabler
+author: BlazeTheDev
+version: 1.0.0
+description: An advanced hunger disabling plugin for PocketMine
+main: iiFlamiinBlaze\HungerDisabler\HungerDisabler
+api: 3.0.0-ALPHA12

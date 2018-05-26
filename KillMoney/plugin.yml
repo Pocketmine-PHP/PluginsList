@@ -1,0 +1,6 @@
+name: KillMoney
+author: BlazeTheDev
+version: 1.0.0
+description: An advanced kill money plugin for PocketMine
+main: iiFlamiinBlaze\KillMoney\KillMoney
+api: 3.0.0-ALPHA12

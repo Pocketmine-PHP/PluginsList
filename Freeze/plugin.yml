@@ -1,0 +1,13 @@
+name: Freeze
+author: BlazeTheDev
+version: 1.0.0
+description: A freeze plugin for PocketMine
+main: iiFlamiinBlaze\Freeze\Freeze
+api: 3.0.0-ALPHA12
+commands:
+ freeze:
+  description: Allows you to freeze a player
+  permission: freeze.command
+permissions:
+ freeze.command:
+  default: op

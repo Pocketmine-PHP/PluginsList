@@ -1,0 +1,6 @@
+name: NoVoid
+author: BlazeTheDev
+version: 1.0.0
+description: A no void plugin for PocketMine
+main: iiFlamiinBlaze\NoVoid\NoVoid
+api: 3.0.0-ALPHA12

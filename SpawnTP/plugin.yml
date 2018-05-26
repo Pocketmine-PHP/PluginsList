@@ -1,0 +1,13 @@
+name: SpawnTP
+author: BlazeTheDev
+version: 1.0.0
+description: A SpawnTP plugin for PocketMine
+main: iiFlamiinBlaze\SpawnTP\SpawnTP
+api: 3.0.0-ALPHA12
+commands:
+ spawn:
+  description: Teleports you to the world spawn
+  permission: spawn.command
+permissions:
+ spawn.command:
+  default: true
