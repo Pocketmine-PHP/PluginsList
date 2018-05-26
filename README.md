@@ -4,7 +4,7 @@ PluginsList  for mcpe server / pmmp / pocketmine
 
 # For the UI plugins you need | [FormAPI](https://github.com/jojoe77777/FormAPI) |
 ## I want to clarify that not all plugins are done by us
-# Number 1 credits :  [BlazeTheDev](https://github.com/iiFlamiinBlaze)
+# Number : 1 credits :  [BlazeTheDev](https://github.com/iiFlamiinBlaze)
 | Plugin Name | Latest Stable Version |
 | :---: | :---: |
 | [HungerDisabler](https://github.com/Pocketmine-PHP/PluginsList/tree/master/HungerDisabler) | v1.0.0 |
