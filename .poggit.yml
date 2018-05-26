@@ -65,5 +65,9 @@ projects:
   Freeze:
 
     path: Freeze/
+    
+  ReportsPE:
+
+    path: ReportsPE/
 
 ...
