@@ -1,0 +1,11 @@
+  name: NoFallDamage
+  main: thebigsmileXD\NoFallDamage\Main
+  version: 1.0.0
+  api: [3.0.0-ALPHA8, 3.0.0-ALPHA9, 3.0.0-ALPHA10]
+  load: POSTWORLD
+  author: VMPE Development Team
+  description: "Disable fall damage on Pocketmine's latest builds."
+  permissions:
+    nofalldamage:
+      description: Permission for disabling Fall damage.
+      default: true
